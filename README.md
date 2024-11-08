@@ -1,5 +1,5 @@
 # How to use #
-In the current stage of developing this website is no publically accessible, 
+In the current stage of development, this website is no publically accessible, 
 meaning that you have to download the files from this repository and access them on a local server.
 
 # About #
